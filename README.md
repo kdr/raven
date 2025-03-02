@@ -54,18 +54,6 @@ Designed to work with different vision-language models (VLMs) and large language
 }
 ```
 
-## Author
-
-[Kevin Dela Rosa](https://perhaps.ai/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="14" height="14">](https://twitter.com/kdrwins) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" width="14" height="14">](https://www.linkedin.com/in/kdrosa/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="14" height="14">](https://github.com/kdr) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="14" height="14">](https://scholar.google.com/citations?user=8Pc5MiUAAAAJ&hl=en)
-
-Presented at AI Agent for Information Retrieval [Agent4IR](https://sites.google.com/view/ai4ir/aaai-2025) @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)
-
-[Presentation Slides](https://docs.google.com/presentation/d/11d8NsO3g9PiwS4DrpcbeInJGh-nsnRjXK-GKA6lEjb4/edit#slide=id.g332712572d6_0_1147)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Citation
 
 ```bibtex
