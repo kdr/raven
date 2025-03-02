@@ -10,9 +10,11 @@ Presented at AI Agent for Information Retrieval [Agent4IR](https://sites.google.
 
 ## Citation
 
+```bibtex
 @inproceedings{delaRosa2025raven,
   title={RAVEN: An Agentic Framework for Multimodal Entity Discovery from Large-Scale Video Collections},
   author={Dela Rosa, Kevin},
-  booktitle={AAAI Workshop on AI Agents for Information Retrieval (Agent4IR @ AAAI 2025)},
+  booktitle={AAAI Workshop on AI Agents for Information Retrieval (Agent4IR at AAAI 2025)},
   year={2025}
 }
+```
