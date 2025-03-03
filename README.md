@@ -6,6 +6,8 @@ We present RAVEN (**R**ecognition and **A**daptation of **V**ideo **EN**tities),
 
 Presented at AI Agent for Information Retrieval [Agent4IR](https://sites.google.com/view/ai4ir/aaai-2025) @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)
 
+[Read Paper](paper/Agent4IR-AAAI2025.pdf)
+
 [Presentation Slides](https://docs.google.com/presentation/d/11d8NsO3g9PiwS4DrpcbeInJGh-nsnRjXK-GKA6lEjb4/edit#slide=id.g332712572d6_0_1147)
 
 ## Highlights
